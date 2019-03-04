@@ -1,0 +1,10 @@
+{
+  "name": "zero-dep-tree-js",
+  "main": "index.js",
+  "version": "1.0.8",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@mdx-js/mdx": "^0.16.8",
+    "konan": "^1.2.1"
+  }
+}
